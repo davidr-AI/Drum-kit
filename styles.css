@@ -1,7 +1,7 @@
 body {
     text-align: center;
     background-color: grey;
-    background-image: url("/images/photo.jpeg");
+    background-image: url("images/photo.jpeg");
     background-size: cover;
 }
 
